@@ -14,7 +14,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 # Ant+Ivy [40 pts]
 - [5 pts] A screen capture showing the version of Ant that you installed and its install directory. <br />
 Ant Version <br />
-![Ant Version](images/AntVersion.PNG) <br />
+![Ant Version](images/AntVersion.PNG) <br /> 
 Ant Directory from File Explorer and Command Prompt <br />
 ![Ant Installed Directory](images/AntDirectory.PNG) <br />
 ![Ant Home](images/AntHome.PNG) <br />
@@ -30,8 +30,8 @@ Ant Directory from File Explorer and Command Prompt <br />
 	
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory. <br />
-Maven Version <br />  
-![Maven Version](images/MvnVersion.PNG) <br />
+Maven Version <br />
+![Maven Version](images/MvnVersion.PNG) <br /> 
 Maven Directory from File Explorer and Command Prompt <br />
 ![Maven Installed Directory](images/MvnDirectory.PNG) <br />
 ![Maven Home](images/MvnHome.PNG) <br />
@@ -45,7 +45,7 @@ Maven Directory from File Explorer and Command Prompt <br />
 # Gradle [30 pts]
 - [5 pts] A screen capture showing the version of Gradle that you installed and its install directory. <br />
 Gradle Version <br />
-![Gradle Version](images/GradleVersion.PNG) <br />
+![Gradle Version](images/GradleVersion.PNG) <br /> 
 Gradle Directory from File Explorer and Command Prompt <br />
 ![Gradle Installed Directory](images/GradleDirectory.PNG) <br />
 ![Gradle Home](images/GradleHome.PNG) <br />
